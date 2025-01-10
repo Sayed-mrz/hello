@@ -1,0 +1,114 @@
+/* nav style  */
+.nav{
+display: flex;
+justify-content: space-around;
+}
+.button{
+    background-color: antiquewhite;
+    width: 144px;
+    height: 44px;
+    font-weight: 800;
+}
+/* 2nd part start */
+.img-bg{margin-top: 60px;
+width: 180px;}
+.father{
+    background-image: url(assets/Hero-bg.png);
+    width:auto;
+    height:70vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+text-align: center;
+}
+.btn{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50px;
+    font-weight: 800;
+    padding: 15px;
+}
+/* 3rd step */
+.why-dev-connainer{
+    width: 80%;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.box1{
+    display: flex;
+   justify-content: space-around;
+   margin: 0 70px;
+    /* border: 1px solid black; */
+    align-items: center;
+    box-shadow: 4px 4px 4px 4px green;
+    margin-top: 40px;
+}
+.box-left{
+    text-align: left;
+    margin-top: 50px;
+}
+/* box2 style */
+.box-2{
+    display: flex;
+    justify-content: space-around;
+    width: 88%;
+    margin: 30px auto 0 auto;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px 4px gray;
+    /* gap: 40px ; */
+}
+.box2-right{
+    /* display: flex; */
+    justify-items: flex-start;
+    text-align: left;
+    margin-top: 30px;
+}
+/* 4th work */
+.text-center{
+    text-align: center;
+    padding-top: 50px;
+}
+.father2{
+    display: flex;
+    /* padding-top: ; */
+    gap: 40px ;
+    margin: 0 80px;
+    text-align: left;
+}
+.box-a{
+    background-color: rgb(216, 136, 30);
+    padding: 40px;
+}
+.box-b{background-color: aquamarine;
+    padding: 40px;
+}
+.box-c{
+    background-color: rgb(178, 178, 18);
+    padding: 40px;}
+
+    /* 5th work */
+    .soman{
+        display: flex;
+        gap: 80px;
+        padding: 40px;
+        /* background-color: azure; */
+    }
+    .text-left{
+        text-align: left;
+        /* border: 1px solid black; */
+    }
+    .pic-border{
+        /* border: 1px solid black;    */
+        width: 100px;
+    }
+    .bg-change{
+        background-color: aliceblue;
+        margin: 40px;
+    }
+    small{
+        color: brown;
+    }
